@@ -1,2 +1,1 @@
-# meeting-countdown-docker
-Docker image for building meeting-countdown application.
+# Docker Image for Building meeting-countdown
