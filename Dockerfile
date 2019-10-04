@@ -5,6 +5,7 @@ LABEL maintainer="tuomas.jaakola@iki.fi"
 
 RUN apt-get update && apt-get install -y curl \
   build-essential \
+  git \
   mingw-w64 \
   pkg-config
 
